@@ -4,5 +4,8 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Samples/Tezos Unity SDK/3.0.0/Tutorials/WalletConnection/_WalletConnection.unity
+    guid: 5c600a12387934620bb6b09572cc6cd5
   m_configObjects: {}

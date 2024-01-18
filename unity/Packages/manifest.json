@@ -1,5 +1,6 @@
 {
   "dependencies": {
+    "com.trilitech.tezos-unity-sdk": "https://github.com/trilitech/tezos-unity-sdk.git",
     "com.unity.collab-proxy": "2.0.5",
     "com.unity.feature.development": "1.0.1",
     "com.unity.textmeshpro": "3.0.6",
